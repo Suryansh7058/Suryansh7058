@@ -5,10 +5,10 @@
 🏆🥇I am a **competitive programming** enthusiast. I am **6-star⭐️** coder at Hackerrank.<br />
 
 <p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+
 <img  src="https://github-readme-stats.vercel.app/api?username=Suryansh7058&&show_icons=true&theme=radical"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suryansh7058"/> |
-  </a>
+
   </p>
 
 ## Mostly Work With ⚒
