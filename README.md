@@ -2,12 +2,12 @@
 
 👨‍🎓I am Suryansh Singh, currently venturing on my IT Engineering journey from D.Y. Patil College Of Engineering, Akurdi, Pune. <br />
 💻I am a **full-stack web developer** as well as a **UI / UX** enthusiast I have decent experience in working with Android as well. 📱 <br />
-🏆🥇I am a **competitive programming** enthusiast. I am **6-star⭐️** coder at Hackerrank.<br />
+🏆🥇I am a **competitive programming** enthusiast. and a **6-star⭐️** coder at Hackerrank.<br />
 
 <p align="center" >  
 
 <img  src="https://github-readme-stats.vercel.app/api?username=Suryansh7058&&show_icons=true&theme=radical"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Suryansh7058"/> |
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Suryansh7058"/>
 
   </p>
 
